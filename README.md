@@ -13,6 +13,4 @@ Experiment Design: We design experiments to accommodate extra measurements, part
 Documentation: A docummentation of the project can be located at ...
 
 COLLABORATORS:
-Bright
-
-Olivier
+Bright, Olivier
