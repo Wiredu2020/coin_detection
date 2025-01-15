@@ -5,8 +5,14 @@ This project focuses on implementing a system to estimate the number and types o
 Project Objectives:
 
 Imaging Setup Characterization and Calibration:.
-System Implementation: Matlab implementation of this project can be located at <a href='https://github.com/Wiredu2020/coin_detection/blob/main/coin_project.mlx'>Project</a>
+System Implementation: Matlab implementation of this project can be located at <a href='https://github.com/Wiredu2020/coin_detection/blob/main/coin_project.mlx'>Project</a>.
+All needed functions for implementation is in <a href='https://github.com/Wiredu2020/coin_detection/blob/main/function'>Project</a>
 
-Experiment Design: We design experiments to accommodate extra measurements, particularly when imaging conditions (e.g., illumination, focal length) change.
 
+Experiment Design: We design experiments to accommodate extra measurements, particularly when imaging conditions (e.g., illumination, focal length) change. 
 Documentation: A docummentation of the project can be located at ...
+
+COLLABORATORS:
+Bright
+
+Olivier
