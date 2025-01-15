@@ -1,7 +1,10 @@
 # Coin Detection and Estimation
 Project Overview:
-This project involves detecting and estimating coins using digital imaging and image processing techniques.
+This project focuses on implementing a system to estimate the number and types of coins in an image using digital imaging and image processing techniques. The task involves setting up and calibrating an imaging system, analyzing data, and designing experiments to adapt to various imaging conditions.
 
-Source Code Directory:
-All source code is located in the function directory:
+Project Objectives:
 
+Imaging Setup Characterization and Calibration:.
+System Implementation: Matlab implementation of this project can be located at <a href=''>Project</a>
+Experiment Design: We design experiments to accommodate extra measurements, particularly when imaging conditions (e.g., illumination, focal length) change.
+Documentation: A docummentation of the project can be located at ...
